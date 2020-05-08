@@ -1,0 +1,152 @@
+@media screen and (max-width: 1024px) {
+	body{
+		width: 100%;
+	}
+    .header{
+
+        background-color: royalblue  ;
+        flex-flow: column;
+       
+
+        
+    }
+    *{
+        
+    }
+
+    .favicon {
+
+        padding-top: 10px;
+   text-align: center;
+    }
+    .pa{
+     text-align: center;
+        
+    }
+
+    .favicon1 {
+    
+    }
+
+    .listunorder {
+        list-style-type: none;
+      
+    }
+    .ul{
+        text-align: center;
+    }
+
+    .middle{
+        flex-flow: wrap;
+        
+        
+    }
+    .icons{
+        padding-top: 100px ;
+        width: 100%;
+        text-align: center;
+    }
+    .icons span{
+
+        display: block;
+        
+    }
+    .boxmain{
+        flex-flow: wrap
+        ;
+        
+      
+        text-align: center;
+        
+        margin: 3% 0% 0% 0%;
+
+    }
+    .box{
+        text-align: center;
+        padding-left: 200px;
+        width: 120px !important;
+        
+    }
+    .box img ,h3{
+        margin: 1% 80% 13% -80%;
+    }
+    .hr1{
+        opacity: 1;
+       display: contents;
+
+    }
+    .head{
+        display: flex;
+        flex-flow: wrap
+
+    }
+    .linework{
+        width: 230%;
+    margin: 0px -27px 5px -28px;
+    font-size: 12px;
+    }
+    .marqu{
+        margin: 44% 0% 0% -22%;
+    
+    }
+    .upcom{
+        margin: 71% 0% 0% -17%;
+        position: absolute;
+    }
+    .line2{
+        background-color: green;
+        height: 4px;
+        width: 54px;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 82% 0% 0% -32%;
+        position: absolute;
+        border-radius: 72px;
+
+    }
+    .line{
+        background-color: white !important;
+    }
+    .line1{
+        margin: 22% 0% 0% -36% !important;
+    }
+    
+.footer{
+    margin-top: 10%;
+    flex-flow: column;
+    
+}
+.footerli{
+    width: 248%;
+    margin: 10% 0% 4% -48%;
+}
+.row{
+    margin: 7% 0% 0% 24%;
+}
+.row>p{
+    margin: 0% 0% 0% -79%;
+    width: 290%;
+}
+.row h3{
+    width: 143%;
+}
+.row>hr{
+    width: 230% !important;
+    margin-right: 26% !important;
+}
+.line3{
+    margin: -2% 0% 0% -18% !important;
+    width: 37% !important;
+
+}
+.row3{
+    margin: 3% 0% -8% -111% !important;
+}
+    .miss{
+        font-size: 12vw;
+
+        
+    }
+}
+
+
